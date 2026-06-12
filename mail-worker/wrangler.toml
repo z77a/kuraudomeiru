@@ -16,8 +16,8 @@ binding = "kv"
 id = "6686f6d560f34a92b4bf49606a1d1523"
 
 [[r2_buckets]]
-binding = "r2"			#r2对象存储绑定名默认不可修改
-bucket_name = "assets"		#r2对象存储桶的名字
+binding = "r2"
+bucket_name = "assets"
 
 #[[send_email]]
 #name = "email"			#CF发件, 配置后优先使用
